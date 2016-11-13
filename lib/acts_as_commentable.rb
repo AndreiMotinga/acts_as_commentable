@@ -1,0 +1,3 @@
+module ActsAsCommentable
+  # Your code goes here...
+end
